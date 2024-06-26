@@ -9,3 +9,4 @@
 5. https://gist.github.com/nmenon/c2984e28f1af73292c0bd472c7522460
 6. https://github.com/cyrus-and/gdb-dashboard
 7. https://github.com/openocd-org/openocd/tree/master
+8. https://openocd.org/doc/html/Command-and-Driver-Index.html
